@@ -15,6 +15,15 @@ Try here https://3bl3gamer.github.io/wasm-test-2/ (WASM generator) or here https
 | Chrome  | WASM | 61.5 s |
 | Firefix | JS   | 65.2 s |
 
+### Windows 10, i5-7600
+
+| Browser    | Mode | Time |
+|------------|------|------|
+| Firefox 84 | WASM | 33.3 |
+| Chrome 87  | WASM | 36.7 |
+| Chrome 87  | JS   | 37.5 |
+| Firefox 84 | JS   | 42.5 |
+
 ### Android, Snapdragon 845
 
 | Browser                 | Mode | Time    |
